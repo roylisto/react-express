@@ -1,18 +1,18 @@
 # React Express
--- npm install -g nodemon
+- npm install -g nodemon
 
--- npm install -g sequelize-cli
+- npm install -g sequelize-cli
 
--- npm install
+- npm install
 
--- cp .env .env.example
+- cp .env .env.example
 
--- sequelize db:migrate
+- sequelize db:migrate
 
--- sequelize db:seed:all
+- sequelize db:seed:all
 
 ### development
--- npm start
+- npm start
 
 ### production
--- npm run build
+- npm run build
