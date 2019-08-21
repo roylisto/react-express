@@ -5,7 +5,7 @@
 
 - npm install
 
-- cp .env .env.example
+- cp .env.example .env
 
 - sequelize db:migrate
 
